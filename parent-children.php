@@ -6,7 +6,7 @@
 	/*************************************/
 
 		$pcConfig = array(
-			'houses' => array(   
+			'houses' => array(    
 			),
 			'tenants' => array(   
 				'house' => array(   
